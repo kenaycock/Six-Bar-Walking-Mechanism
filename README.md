@@ -5,7 +5,7 @@ SUMMARY
 -------
 As part of an undergraduate kinematics course at BYU-Idaho in 2011, some fellow students and I built a prototype of the walking mechanism presented in Mehdigholi and Akbarnejad's paper "Optimization of Watt's Six-bar Linkage to Generate Straight and Parallel Leg Motion" (2008). 
 
-A diagram of the linkage was included in the paper, but the links were not drawn to scale. We optimiazed the linkage lengths in Mathematica using a brute-force approach.
+A diagram of the linkage was included in the paper, but the links were not drawn to scale. We optimized the linkage lengths in Mathematica using a brute-force approach.
 
 Although our prototype was relatively crude, our YouTube videos on the project have reached over 30,000 views (collectively), and I recieve e-mails regularly requesting more details on the project. I hope that uploading the files here will inspire others to create higher-quality physical prototypes of this interesting mechanism! (freeing up my inbox may also be a motivation :) )
 

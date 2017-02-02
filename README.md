@@ -32,6 +32,6 @@ Drop me a line or send me a video if you build a prototype, and let me know if y
 
 CREDIT
 ------
-Thomas Checketts, John Payne, Mike Duke, and Kenny Aycock
+Group members: Thomas Checketts, John Payne, Mike Duke, and Kenny Aycock
 
-Mentor: Greg Roach, Ph.D.; Additional guidance from David Johnson, Ph.D. on setting up the vector loops in Mathematica 
+Instructor: Greg Roach, Ph.D.; Additional guidance from David Johnson, Ph.D. on setting up the vector loop equation in Mathematica 

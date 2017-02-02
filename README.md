@@ -15,6 +15,7 @@ RESOURCES
     * http://journals.sagepub.com/doi/full/10.5772/50917
 2. **Watt 6-bar Walking Mechanism with Straight and Parallel.pdf**: Class presentation on the project
 3. **Mehdigholi_Watt_6_Bar_Diagram.png**: Diagram of the walking mechanism. The dimensions can be scaled as needed for your project:
+<img src="https://raw.githubusercontent.com/kenaycock/Six-Bar-Walking-Mechanism/master/Mehdigholi_Watt_6_Bar_Diagram.png" data-canonical-src="https://raw.githubusercontent.com/kenaycock/Six-Bar-Walking-Mechanism/master/Mehdigholi_Watt_6_Bar_Diagram.png" width="200" />
     * R2 = 1.
     * R2' = 1.
     * R1 = 1.875

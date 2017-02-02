@@ -17,6 +17,7 @@ RESOURCES
 3. **Mehdigholi_Watt_6_Bar_Diagram.png**: Diagram of the walking mechanism. The dimensions can be scaled as needed for your project:
 
 <img src="https://raw.githubusercontent.com/kenaycock/Six-Bar-Walking-Mechanism/master/Mehdigholi_Watt_6_Bar_Diagram.png" data-canonical-src="https://raw.githubusercontent.com/kenaycock/Six-Bar-Walking-Mechanism/master/Mehdigholi_Watt_6_Bar_Diagram.png" width="200" />
+
     * R2 = 1.
     * R2' = 1.
     * R1 = 1.875

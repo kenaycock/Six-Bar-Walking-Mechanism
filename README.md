@@ -7,7 +7,7 @@ As part of an undergraduate kinematics course at BYU-Idaho, some fellow students
 
 A diagram of the linkage was included in the paper, but the links were not drawn to scale. We optimiazed the linkage lengths in Mathematica using a brute-force approach.
 
-Although our prototype was relatively crude, our YouTube videos on the project have reached over 30,000 views (collectively), and I recieve e-mails in my inbox frequently asking for more details on the project.
+Although our prototype was relatively crude, our YouTube videos on the project have reached over 30,000 views (collectively), and I recieve e-mails regularly requesting more details on the project. I hope uploading the files here will inspire others to create higher-quality physical prototypes of this interesting mechanism! (freeing up my inbox may also be a motivation :) )
 
 RESOURCES
 ---------

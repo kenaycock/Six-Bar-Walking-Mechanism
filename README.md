@@ -34,4 +34,4 @@ CREDIT
 ------
 Thomas Checketts, John Payne, Mike Duke, and Kenny Aycock
 
-Mentor: Greg Roach, Ph.D.
+Mentor: Greg Roach, Ph.D.; Additional guidance from David Johnson, Ph.D. on setting up the vector loops in Mathematica 

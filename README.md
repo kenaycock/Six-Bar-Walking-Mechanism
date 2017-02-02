@@ -23,7 +23,8 @@ RESOURCES
     * R4 = 2.3125
     * R5 = 3.8125
     * R6 = 4.6875
-4. **YouTube**:
+4. **Mathematica/**: Mathematica notebook demonstrating an approach for modeling and optimizing the motion of the six-bar linkage. This is an old, uncommented notebook, and there is much room for improvement, but it may still be useful to you as an example of how to perform kinematic analysis of a linkage with a vector loop equation.
+5. **YouTube**:
     * **CAD Animation**: https://www.youtube.com/watch?v=XnWlYM9TIwI
     * **Working Prototype**: https://www.youtube.com/watch?v=2fwz9vatJR0
 

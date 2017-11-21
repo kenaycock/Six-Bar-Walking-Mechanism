@@ -7,7 +7,7 @@ As part of an undergraduate kinematics course at BYU-Idaho in 2011, some fellow 
 
 A diagram of the linkage was included in the paper, but the links were not drawn to scale. We optimized the linkage lengths in Mathematica using a brute-force approach.
 
-Although our prototype was relatively crude, our YouTube videos on the project have reached over 30,000 views (collectively), and I recieve e-mails regularly requesting more details on the project. I hope that uploading the files here will inspire others to create higher-quality physical prototypes of this interesting mechanism! (freeing up my inbox may also be a motivation :) )
+Although our prototype was relatively crude, our YouTube videos on the project have reached over 30,000 views (collectively), and I recieve e-mails regularly requesting more details. I hope that uploading the files here will inspire others to create higher-quality physical prototypes of this interesting mechanism! (and free up my inbox at the same time :) )
 
 RESOURCES
 ---------
@@ -24,12 +24,13 @@ RESOURCES
     * R4 = 2.3125
     * R5 = 3.8125
     * R6 = 4.6875
-4. **Mathematica/**: Mathematica notebook demonstrating an approach for modeling and optimizing the motion of the six-bar linkage. This is an old, uncommented notebook, and there is much room for improvement, but it may still be useful to you as an example of how to perform kinematic analysis of a linkage using a vector loop equation.
+4. **Mathematica**: Mathematica notebook demonstrating an approach for modeling and optimizing the motion of the six-bar linkage. This is an old, uncommented notebook, and there is much room for improvement, but it may still be useful to you as an example of how to perform kinematic analysis of a linkage using a vector loop equation.
 5. **YouTube**:
     * **CAD Animation**: https://www.youtube.com/watch?v=XnWlYM9TIwI
     * **Working Prototype**: https://www.youtube.com/watch?v=2fwz9vatJR0
 
-Drop me a line or send me a video if you build a prototype, and let me know if you get stuck!
+Please share your results if you build a prototype! 
+-Ken
 
 CREDIT
 ------
